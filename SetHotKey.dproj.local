@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.349,=d:\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.295,d:\Documents\RAD Studio\Projects\Unit1.pas=D:\Program Files (x86)\Embarcadero\pkg\SetCodeCompletion.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.881,d:\Documents\RAD Studio\Projects\Package1.dproj=D:\Program Files (x86)\Embarcadero\pkg\SetHotKey.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.703,=rtl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
